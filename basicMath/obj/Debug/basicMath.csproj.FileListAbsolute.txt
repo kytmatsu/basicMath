@@ -1,0 +1,10 @@
+C:\Users\Toshi\source\repos\basicMath\basicMath\bin\Debug\basicMath.exe.config
+C:\Users\Toshi\source\repos\basicMath\basicMath\bin\Debug\basicMath.exe
+C:\Users\Toshi\source\repos\basicMath\basicMath\bin\Debug\basicMath.pdb
+C:\Users\Toshi\source\repos\basicMath\basicMath\obj\Debug\basicMath.csproj.AssemblyReference.cache
+C:\Users\Toshi\source\repos\basicMath\basicMath\obj\Debug\basicMath.Form1.resources
+C:\Users\Toshi\source\repos\basicMath\basicMath\obj\Debug\basicMath.Properties.Resources.resources
+C:\Users\Toshi\source\repos\basicMath\basicMath\obj\Debug\basicMath.csproj.GenerateResource.cache
+C:\Users\Toshi\source\repos\basicMath\basicMath\obj\Debug\basicMath.csproj.CoreCompileInputs.cache
+C:\Users\Toshi\source\repos\basicMath\basicMath\obj\Debug\basicMath.exe
+C:\Users\Toshi\source\repos\basicMath\basicMath\obj\Debug\basicMath.pdb
